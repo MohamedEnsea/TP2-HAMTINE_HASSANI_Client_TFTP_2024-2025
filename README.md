@@ -24,9 +24,9 @@ To execute the code for each file (each question), simply write :
                     Server: 127.0.0.1
                     File: example.txt
     
-  - If the number of arguments is incorrect, the program displays an error message explaining the syntax to be used.
-        For example, by executing an incomplete command: "./Question1 get 127.0.0.1".
-        The terminal displays : "Incorrect command! Use this syntax: <get/put> <server> <file>"
+        - If the number of arguments is incorrect, the program displays an error message explaining the syntax to be used.
+              For example, by executing an incomplete command: "./Question1 get 127.0.0.1".
+              The terminal displays : "Incorrect command! Use this syntax: <get/put> <server> <file>"
 
 # For question 2
     When we use the TFTP server provided by Moodle, it is accessible at the local IP address 127.0.0.1.
